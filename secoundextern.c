@@ -1,0 +1,1 @@
+int no = 10;//defination of variable
